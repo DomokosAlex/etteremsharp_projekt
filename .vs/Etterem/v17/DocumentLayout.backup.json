@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hppav\\source\\repos\\Etterem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14D4F8E8-66E2-477D-A80F-83FAAA5BA844}|Etterem\\Etterem.csproj|c:\\users\\hppav\\source\\repos\\etterem\\etterem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D4F8E8-66E2-477D-A80F-83FAAA5BA844}|Etterem\\Etterem.csproj|solutionrelative:etterem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D4F8E8-66E2-477D-A80F-83FAAA5BA844}|Etterem\\Etterem.csproj|c:\\users\\hppav\\source\\repos\\etterem\\etterem\\etel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D4F8E8-66E2-477D-A80F-83FAAA5BA844}|Etterem\\Etterem.csproj|solutionrelative:etterem\\etel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D4F8E8-66E2-477D-A80F-83FAAA5BA844}|Etterem\\Etterem.csproj|c:\\users\\hppav\\source\\repos\\etterem\\etterem\\ugyfel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D4F8E8-66E2-477D-A80F-83FAAA5BA844}|Etterem\\Etterem.csproj|solutionrelative:etterem\\ugyfel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D4F8E8-66E2-477D-A80F-83FAAA5BA844}|Etterem\\Etterem.csproj|c:\\users\\hppav\\source\\repos\\etterem\\etterem\\rendelesek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D4F8E8-66E2-477D-A80F-83FAAA5BA844}|Etterem\\Etterem.csproj|solutionrelative:etterem\\rendelesek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D4F8E8-66E2-477D-A80F-83FAAA5BA844}|Etterem\\Etterem.csproj|c:\\users\\hppav\\source\\repos\\etterem\\etterem\\leadott.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D4F8E8-66E2-477D-A80F-83FAAA5BA844}|Etterem\\Etterem.csproj|solutionrelative:etterem\\leadott.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 132,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Leadott.cs",
+              "DocumentMoniker": "C:\\Users\\hppav\\source\\repos\\Etterem\\Etterem\\Leadott.cs",
+              "RelativeDocumentMoniker": "Etterem\\Leadott.cs",
+              "ToolTip": "C:\\Users\\hppav\\source\\repos\\Etterem\\Etterem\\Leadott.cs",
+              "RelativeToolTip": "Etterem\\Leadott.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T21:06:41.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rendelesek.cs",
+              "DocumentMoniker": "C:\\Users\\hppav\\source\\repos\\Etterem\\Etterem\\Rendelesek.cs",
+              "RelativeDocumentMoniker": "Etterem\\Rendelesek.cs",
+              "ToolTip": "C:\\Users\\hppav\\source\\repos\\Etterem\\Etterem\\Rendelesek.cs",
+              "RelativeToolTip": "Etterem\\Rendelesek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T22:55:44.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Etel.cs",
+              "DocumentMoniker": "C:\\Users\\hppav\\source\\repos\\Etterem\\Etterem\\Etel.cs",
+              "RelativeDocumentMoniker": "Etterem\\Etel.cs",
+              "ToolTip": "C:\\Users\\hppav\\source\\repos\\Etterem\\Etterem\\Etel.cs",
+              "RelativeToolTip": "Etterem\\Etel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T22:55:32.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hppav\\source\\repos\\Etterem\\Etterem\\Program.cs",
+              "RelativeDocumentMoniker": "Etterem\\Program.cs",
+              "ToolTip": "C:\\Users\\hppav\\source\\repos\\Etterem\\Etterem\\Program.cs",
+              "RelativeToolTip": "Etterem\\Program.cs",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAAAFMBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T05:54:09.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ugyfel.cs",
+              "DocumentMoniker": "C:\\Users\\hppav\\source\\repos\\Etterem\\Etterem\\Ugyfel.cs",
+              "RelativeDocumentMoniker": "Etterem\\Ugyfel.cs",
+              "ToolTip": "C:\\Users\\hppav\\source\\repos\\Etterem\\Etterem\\Ugyfel.cs",
+              "RelativeToolTip": "Etterem\\Ugyfel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T22:55:18.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
